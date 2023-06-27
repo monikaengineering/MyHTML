@@ -1,0 +1,16 @@
+h1,h3 {text-align: center;
+font-weight:900;
+text-decoration: underline dotted;
+text-decoration-color: blue;
+text-decoration-line:overline;
+letter-spacing: 3cm;
+font-size: 10fasmd0px;
+text-si}
+h2 {color:rgb(0, 255, 60);
+background-color: blue;}
+button{color:rgb(255, 174, 127);
+background-color: red;}
+p{color:rgb(220, 31, 31);
+  background-color: black;
+   }
+   *{color: :bisque;}
