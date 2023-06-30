@@ -1,0 +1,21 @@
+button{
+    padding: 40px 40px 40px 40px;
+    background-color: brown;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    text-align: center;
+    text-decoration-line:underline;
+    color:beige;
+    font-size: medium;
+}
+.dot{
+    height: 25px;
+    width:25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    position: center;
+
+}
